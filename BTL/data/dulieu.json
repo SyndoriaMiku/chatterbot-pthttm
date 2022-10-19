@@ -1,0 +1,86 @@
+{
+    "intents":[
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "thrillers"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "comic book movies"                
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "action movie"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "comedy"
+                
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "Hallmark movies"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "romantic comedy"
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "horror"     
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "romances"     
+            ],
+            "responses": [
+                ""
+            ]
+        },
+        {
+            "tag": "MOVIE_GENRE_OR_CATEGORY",
+            "patterns": [
+                "scary"    
+            ],
+            "responses": [
+                ""
+            ]
+        }
+    ]
+}
